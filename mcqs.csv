@@ -13,3 +13,4 @@ From which direction sun rises ?, east , west , north , south , 4
 Who won most IPL seasons? , KKR , CSK , RCB , MI , 4
 Which algorithm is used for cat/dog classification?,Linear regression , Image classification , 2
 Which Liberary is best for ML implementation in python ?, sklearn , opencv , matplotlib , 3
+Which function is used for multiclass classification problems?, softmax , relu , sigmoid , none of these , 4
