@@ -15,3 +15,5 @@ Which algorithm is used for cat/dog classification?,Linear regression , Image cl
 Which Liberary is best for ML implementation in python ?, sklearn , opencv , matplotlib , 3
 Which function is used for multiclass classification problems?, softmax , relu , sigmoid , none of these , 4
 How many queens can be placed in a 8*8 chess board such that no two queens collide ? , 4 , 5 , 6 , 8 , 4
+Which type of Country is India ?, Continent , Sub-Continent , Island , none of these , 4
+
