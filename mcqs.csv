@@ -2,15 +2,8 @@ Question,Choice1,Choice2,Choice3,Choice4,Answer
 How many corners does a triangle have?,Two,One,Four,Seven,2
 What is the variable type of a? a = 'yes',Integer,Float,String,Character,3
 What is the color of the grass?,Green,Black,Pink,Purple,1
-Which mobile brand offers most premium phone?,Karbonn,Micromax,Samsung,Apple,4
-What is the disadvantage of decision trees?,Factor Analysis,Robust to outliners,Prone to overfit,All of the above,3
-Which of the following is not the faeture of 'Jave' language?,Object Oriented Language, Polymorphism, Inheritance, Procedure Oriented Language, 4 
-The acronym SSD stands for what?,Solid Stage Drive, Solid State Drive, State Storage Drive, Stateless Storage Drive, 2
-Which of the following data structure is used by the computer for recursion internally?, Queue, Array, Stack, All of the above, 3
-What is DNS?,Do Not Send, Domain Name Series, Domain Name System, None of the above, 3
-How many days are there in a leap year ?, 365 , 366 , 367 , None of these , 2
 From which direction sun rises ?, east , west , north , south , 1
-Who won most IPL seasons? , KKR , CSK , RCB , MI , 2
+Who won most IPL seasons? , DC , CSK , RCB , MI , 2
 Which algorithm is used for cat/dog classification?, Linear regression , Image classification , Logistic Regression , GANs ,2
 Which Library is best for ML implementation in python ?, sklearn , opencv , matplotlib , PIL, 1
 Which function is used for multiclass classification problems?, softmax , relu , sigmoid , none of these , 1
