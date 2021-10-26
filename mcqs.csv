@@ -8,12 +8,11 @@ Which of the following is not the faeture of 'Jave' language?,Object Oriented La
 The acronym SSD stands for what?,Solid Stage Drive, Solid State Drive, State Storage Drive, Stateless Storage Drive, 2
 Which of the following data structure is used by the computer for recursion internally?, Queue, Array, Stack, All of the above, 3
 What is DNS?,Do Not Send, Domain Name Series, Domain Name System, None of the above, 3
-How many days are there in a leap year ?, 365,366,367, None of these , 4
-From which direction sun rises ?, east , west , north , south , 4 
-Who won most IPL seasons? , KKR , CSK , RCB , MI , 4
-Which algorithm is used for cat/dog classification?,Linear regression , Image classification , 2
-Which Liberary is best for ML implementation in python ?, sklearn , opencv , matplotlib , 3
-Which function is used for multiclass classification problems?, softmax , relu , sigmoid , none of these , 4
+How many days are there in a leap year ?, 365 , 366 , 367 , None of these , 2
+From which direction sun rises ?, east , west , north , south , 1
+Who won most IPL seasons? , KKR , CSK , RCB , MI , 2
+Which algorithm is used for cat/dog classification?, Linear regression , Image classification , Logistic Regression , GANs ,2
+Which Library is best for ML implementation in python ?, sklearn , opencv , matplotlib , PIL, 1
+Which function is used for multiclass classification problems?, softmax , relu , sigmoid , none of these , 1
+Which type of Country is India ?, Continent , Sub-Continent , Island , none of these , 2
 How many queens can be placed in a 8*8 chess board such that no two queens collide ? , 4 , 5 , 6 , 8 , 4
-Which type of Country is India ?, Continent , Sub-Continent , Island , none of these , 4
-
